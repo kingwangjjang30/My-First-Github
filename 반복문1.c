@@ -18,3 +18,8 @@ int main()
 	}
 	printf("\n1~10������ �� : %d",sum); 
 }
+
+void newfunc()
+{
+	printf("hello,hi");
+}
