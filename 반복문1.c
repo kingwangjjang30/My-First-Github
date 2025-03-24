@@ -23,3 +23,4 @@ void newfunc()
 {
 	printf("hello,hi");
 }
+
