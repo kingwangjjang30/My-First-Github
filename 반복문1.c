@@ -24,3 +24,7 @@ void newfunc()
 	printf("hello,hi");
 }
 
+void newfunc2()
+{
+	printf("i love clang");
+}
