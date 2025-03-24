@@ -11,7 +11,7 @@ int main()
 	
 	//1~10������ ��
 	int i=1,sum;
-	while(i<=5)
+	while(i<=100)
 	{
 		sum=sum+i;
 		i++;
